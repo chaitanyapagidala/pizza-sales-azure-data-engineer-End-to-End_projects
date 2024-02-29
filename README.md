@@ -47,7 +47,7 @@ from sales_pizzas
 group by 3,4,5,8,9,10
 
 
-After that connecting to the power bi creating dash boards based on the KPI.
+After that connecting to the power bi creating reports based on the KPI.
 
 
 
