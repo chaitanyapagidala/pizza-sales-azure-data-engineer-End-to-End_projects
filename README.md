@@ -11,7 +11,7 @@ Use Databricks notebooks to process and transform the data.
 Create Power BI reports to visualize the data
 
 
-CODE USED IN DATA BRICKS TO PROCESS AND TRANSFORM THE DATA
+
 
 
 
